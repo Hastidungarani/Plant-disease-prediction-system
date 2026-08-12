@@ -7,12 +7,12 @@ Features>
   Display of symptoms, causes, and prevention methods
   Downloadable disease report in PDF format
   Export plant health history in CSV format
-Technologies Used>
+Technologies Used:
   Python
   TensorFlow / Keras
   OpenCV
   NumPy, Pandas
   Matplotlib / Seaborn
   Streamlit(for deployment)
-Dataset>
+Dataset:
   Used the PlantVillage Dataset or a similar open-source dataset containing thousands of labeled images of healthy and diseased leaves.
